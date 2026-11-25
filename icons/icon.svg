@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#1CB0F6"/>
+  <path d="M0 410 L140 300 L215 352 L330 250 L512 395 L512 400 Q512 512 400 512 L112 512 Q0 512 0 400 Z" fill="#1899D6"/>
+  <path d="M330 250 L362 276 L346 272 L332 284 L318 272 L300 276 Z" fill="#ffffff" opacity=".95"/>
+  <path d="M140 300 L164 319 L150 316 L140 326 L128 316 L116 319 Z" fill="#ffffff" opacity=".95"/>
+  <text x="256" y="250" text-anchor="middle" font-family="Arial Rounded MT Bold, Nunito, Arial Black, Arial, sans-serif" font-weight="900" font-size="168" fill="#ffffff" letter-spacing="-6">C++</text>
+  <circle cx="420" cy="104" r="34" fill="#FFC800"/>
+</svg>
